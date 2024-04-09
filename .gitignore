@@ -23,3 +23,15 @@ go.work
 # IDE
 .vscode
 .idea
+
+# playground
+.playground
+
+# envinronment
+.env
+
+# OS
+.DS_Store
+
+# Chrome driver files
+chromedriver*
